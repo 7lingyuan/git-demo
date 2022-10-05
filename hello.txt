@@ -13,4 +13,4 @@ hello bit! hello git!
 hello bit! hello git!
 hello bit! hello git!
 hello bit! hello git!
-hello bit! hello git!
+hello bit! hello git! hot-fix test
