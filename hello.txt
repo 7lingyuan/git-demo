@@ -1,5 +1,3 @@
-hello bit! hello git! 22!
-hello bit! hello git! 33!
 hello bit! hello git! 
 hello bit! hello git!
 hello bit! hello git!
@@ -12,7 +10,4 @@ hello bit! hello git!
 hello bit! hello git!
 hello bit! hello git!
 hello bit! hello git!
-hello bit! hello git! master test
-hello bit! hello git! hot-fix test
-#include<stdio.h>
-int main()     --by liu
+--by liu edit
